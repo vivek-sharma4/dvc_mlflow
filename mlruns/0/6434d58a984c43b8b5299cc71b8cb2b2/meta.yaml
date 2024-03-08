@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/dvc-mlflow/mlruns/0/6434d58a984c43b8b5299cc71b8cb2b2/artifacts
+end_time: 1709914145401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6434d58a984c43b8b5299cc71b8cb2b2
+run_name: capable-quail-526
+run_uuid: 6434d58a984c43b8b5299cc71b8cb2b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709914145348
+status: 3
+tags: []
+user_id: VIVEK
