@@ -12,3 +12,6 @@ if __name__=='__main__':
         result=calculate(x,y)
     
         print(f"my result is {result}")
+        mlflow.log_param("x",x)
+        mlflow.log_param("y",y)
+        mlflow.log_param("result",result)
